@@ -1,0 +1,52 @@
+body{
+  background-image: url(https://img.freepik.com/free-vector/coffee-seamless-pattern-background-vector-with-white-icons-black-coffee-pot-percolator-steaming-mugs-cups-beans-hearts-espresso-filter-cappuccino-iced-coffee-square-format_1284-44088.jpg?size=338&ext=jpg&ga=GA1.2.473522133.1665312054);
+}
+h1, h2 {
+  text-align: center;
+  font-family: Impact;
+}
+.c{
+  font-family: Impact;
+}
+p{
+  text-align: center;
+  font-family: sans-serif;
+}
+.menu {
+  max-width: 500px;
+  padding: 20px;
+  width: 70%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+img{
+  margin-top: -20px;
+  margin-bottom: -5px;
+  width: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.item p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.flavor, .dessert {
+  text-align: left;
+  width: 75%;
+}
+a{
+  color: black;
+  font-family: sans-serif;
+}
+a:hover {
+  color: blue;
+}
+.price {
+  text-align: right;
+  width: 25%
+}
